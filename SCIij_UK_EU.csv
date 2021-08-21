@@ -1,0 +1,180 @@
+﻿name,i,SCIij
+Hartlepool and Stockton-on-Tees,UKC11,161
+South Teesside,UKC12,255
+Darlington,UKC13,315
+Durham CC,UKC14,182
+Northumberland,UKC21,159
+Tyneside,UKC22,293
+Sunderland,UKC23,193
+West Cumbria,UKD11,159
+East Cumbria,UKD12,365
+Manchester,UKD61,456
+Greater Manchester South West,UKD62,410
+Greater Manchester South East,UKD63,321
+Greater Manchester North West,UKD33,479
+Greater Manchester North East,UKD34,510
+Blackburn with Darwen,UKD35,269
+Blackpool,UKD36,305
+Lancaster and Wyre,UKD37,365
+Mid Lancashire,UKD41,326
+East Lancashire,UKD42,316
+Chorley and West Lancashire,UKD44,276
+Warrington,UKD45,378
+Cheshire East,UKD46,394
+Cheshire West and Chester,UKD47,351
+East Merseyside,UKD71,255
+Liverpool,UKD72,467
+Sefton,UKD73,351
+Wirral,UKD74,208
+"Kingston upon Hull, City of",UKE11,520
+East Riding of Yorkshire,UKE12,272
+North and North East Lincolnshire,UKE13,412
+York,UKE21,353
+North Yorkshire CC,UKE22,314
+"Barnsley, Doncaster and Rotherham",UKE31,447
+Sheffield,UKE32,365
+Bradford,UKE41,381
+Leeds,UKE42,473
+Calderdale and Kirklees,UKE44,270
+Wakefield,UKE45,374
+Derby,UKF11,506
+East Derbyshire,UKF12,229
+South and West Derbyshire,UKF13,244
+Nottingham,UKF14,506
+North Nottinghamshire,UKF15,446
+South Nottinghamshire,UKF16,310
+Leicester,UKF21,604
+Leicestershire CC and Rutland,UKF22,345
+West Northamptonshire,UKF24,760
+North Northamptonshire,UKF25,732
+Lincolnshire,UKF30,537
+"Herefordshire, County of",UKG11,714
+Worcestershire,UKG12,439
+Warwickshire,UKG13,517
+Telford and Wrekin,UKG21,452
+Shropshire CC,UKG22,310
+Stoke-on-Trent,UKG23,424
+Staffordshire CC,UKG24,351
+Birmingham,UKG31,513
+Solihull,UKG32,263
+Coventry,UKG33,793
+Dudley,UKG36,256
+Sandwell,UKG37,498
+Walsall,UKG38,349
+Wolverhampton,UKG39,584
+Peterborough,UKH11,899
+Cambridgeshire CC,UKH12,677
+Suffolk,UKH14,427
+Norwich and East Norfolk,UKH15,421
+North and West Norfolk,UKH16,413
+Breckland and South Norfolk,UKH17,436
+Luton,UKH21,1118
+Hertfordshire,UKH24,713
+Bedford,UKH25,550
+Central Bedfordshire,UKH23,568
+Southend-on-Sea,UKH31,353
+Thurrock,UKH32,719
+Essex Haven Gateway,UKH34,347
+West Essex,UKH35,594
+Heart of Essex,UKH36,383
+Essex Thames Gateway,UKH37,303
+Camden and City of London,UKI31,996
+Westminster,UKI32,2248
+Kensington & Chelsea and Hammersmith & Fulham,UKI33,1924
+Wandsworth,UKI34,1436
+Hackney and Newham,UKI41,2050
+Tower Hamlets,UKI42,1964
+Haringey and Islington,UKI43,1999
+Lewisham and Southwark,UKI44,1330
+Lambeth,UKI45,1512
+Bexley and Greenwich,UKI51,826
+Barking & Dagenham and Havering,UKI52,825
+Redbridge and Waltham Forest,UKI53,1571
+Enfield,UKI54,1503
+Bromley,UKI61,545
+Croydon,UKI62,828
+"Merton, Kingston upon Thames and Sutton",UKI63,857
+Barnet,UKI71,1854
+Brent,UKI72,2003
+Ealing,UKI73,1418
+Harrow and Hillingdon,UKI74,1209
+Hounslow and Richmond upon Thames,UKI75,975
+Berkshire,UKJ11,622
+Milton Keynes,UKJ12,680
+Buckinghamshire CC,UKJ13,534
+Oxfordshire,UKJ14,630
+Brighton and Hove,UKJ21,747
+East Sussex CC,UKJ22,353
+West Surrey,UKJ25,538
+East Surrey,UKJ26,418
+West Sussex (South West),UKJ27,463
+West Sussex (North East),UKJ28,524
+Portsmouth,UKJ31,466
+Southampton,UKJ32,737
+Isle of Wight,UKJ34,244
+South Hampshire,UKJ35,232
+Central Hampshire,UKJ36,349
+North Hampshire,UKJ37,393
+Medway,UKJ41,408
+Kent Thames Gateway,UKJ43,537
+East Kent,UKJ44,415
+Mid Kent,UKJ45,565
+West Kent,UKJ46,407
+"Bristol, City of",UKK11,632
+"Bath and North East Somerset, North Somerset and South Gloucestershire",UKK12,436
+Gloucestershire,UKK13,399
+Swindon,UKK14,409
+Wiltshire CC,UKK15,326
+Bournemouth and Poole,UKK21,589
+Dorset CC,UKK22,269
+Somerset,UKK23,405
+Cornwall and Isles of Scilly,UKK30,278
+Plymouth,UKK41,301
+Torbay,UKK42,286
+Devon CC,UKK43,293
+Isle of Anglesey,UKL11,166
+Gwynedd,UKL12,253
+Conwy and Denbighshire,UKL13,209
+South West Wales,UKL14,267
+Central Valleys,UKL15,192
+Gwent Valleys,UKL16,162
+Bridgend and Neath Port Talbot,UKL17,176
+Swansea,UKL18,299
+Monmouthshire and Newport,UKL21,337
+Cardiff and Vale of Glamorgan,UKL22,358
+Flintshire and Wrexham,UKL23,427
+Powys,UKL24,262
+Aberdeen City and Aberdeenshire,UKM50,463
+Caithness & Sutherland and Ross & Cromarty,UKM61,263
+"Inverness & Nairn and Moray, Badenoch & Strathspey",UKM62,322
+"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",UKM63,361
+Na h-Eileanan Siar (Western Isles),UKM64,190
+Orkney Islands,UKM65,192
+Shetland Islands,UKM66,298
+Angus and Dundee City,UKM71,385
+Clackmannanshire and Fife,UKM72,293
+East Lothian and Midlothian,UKM73,288
+"Edinburgh, City of",UKM75,719
+Falkirk,UKM76,253
+Perth & Kinross and Stirling,UKM77,480
+West Lothian,UKM78,366
+"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",UKM81,191
+Glasgow City,UKM82,434
+"Inverclyde, East Renfrewshire and Renfrewshire",UKM83,233
+North Lanarkshire,UKM84,228
+Scottish Borders,UKM91,287
+Dumfries & Galloway,UKM92,202
+East Ayrshire and North Ayrshire mainland,UKM93,149
+South Ayrshire,UKM94,180
+South Lanarkshire,UKM95,199
+Belfast,UKN06,547
+"Armagh City, Banbridge and Craigavon",UKN07,736
+"Newry, Mourne and Down",UKN08,789
+Ards and North Down,UKN09,293
+Derry City and Strabane,UKN10,1305
+Mid Ulster,UKN11,737
+Causeway Coast and Glens,UKN12,402
+Antrim and Newtownabbey,UKN13,411
+Lisburn and Castlereagh,UKN14,387
+Mid and East Antrim,UKN15,462
+Fermanagh and Omagh,UKN16,983
