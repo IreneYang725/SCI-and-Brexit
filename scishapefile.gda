@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>scishapefile</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>ESRI Shapefile</type>
+                <path>scishapefile.shp</path>
+            </datasource>
+            <layername>scishapefile</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>objectid</var>
+                <var>nuts318cd</var>
+                <var>nuts318nm</var>
+                <var>bng_e</var>
+                <var>bng_n</var>
+                <var>
+                    long
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    lat
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    st_areasha
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    st_lengths
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>SCI</var>
+                <var>
+                    voteleave
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    leave rate
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>NUTS3</var>
+                <var>CL</var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries>
+                <weights>
+                    <title>1</title>
+                    <default/>
+                    <meta_info>
+                        <weights_type>queen</weights_type>
+                        <order>1</order>
+                        <inc_lower_orders>false</inc_lower_orders>
+                        <path>C:\SPCE0038\dissertation_data\1.gal</path>
+                        <id_variable>nuts318cd</id_variable>
+                        <symmetry>symmetric</symmetry>
+                        <num_observations>179</num_observations>
+                        <min_neighbors>0</min_neighbors>
+                        <max_neighbors>14</max_neighbors>
+                        <mean_neighbors>4.446927374301676</mean_neighbors>
+                        <median_neighbors>4</median_neighbors>
+                        <non_zero_perc>2.484316968883618</non_zero_perc>
+                    </meta_info>
+                </weights>
+                <weights>
+                    <title>2</title>
+                    <meta_info>
+                        <weights_type>threshold</weights_type>
+                        <dist_metric>euclidean</dist_metric>
+                        <dist_units>Meter</dist_units>
+                        <dist_values>vars</dist_values>
+                        <dist_var1>long</dist_var1>
+                        <dist_var2>lat</dist_var2>
+                        <threshold_val>2.184003152811505</threshold_val>
+                        <path>C:\SPCE0038\dissertation_data\2.gwt</path>
+                        <id_variable>nuts318cd</id_variable>
+                        <symmetry>symmetric</symmetry>
+                        <num_observations>179</num_observations>
+                        <min_neighbors>1</min_neighbors>
+                        <max_neighbors>116</max_neighbors>
+                        <mean_neighbors>64.17877094972067</mean_neighbors>
+                        <median_neighbors>71</median_neighbors>
+                        <non_zero_perc>35.85406198308417</non_zero_perc>
+                    </meta_info>
+                </weights>
+            </weights_entries>
+            <default_vars>
+                <default_var>
+                    <name>SCI</name>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name>leave rate</name>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+            </default_vars>
+        </layer>
+    </layers>
+</project>
